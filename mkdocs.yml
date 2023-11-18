@@ -6,14 +6,16 @@ site_description: 刘钰的个人网站
 
 # Navigation
 nav:
-  - 转载:
-    - REPRODUCE/index.md
-    -博客:
-      - REPRODUCE/blog/how-to-ask-questions-the-smart-way.md
+  - 博客:
+    - BLOG/index.md
   - 随笔:
     - ESSAY/index.md
     -随笔记:
       -ESSAY/Jottings/2311.md
+  - 转载:
+    - REPRODUCE/index.md
+    - 博客:
+      - REPRODUCE/blog/how-to-ask-questions-the-smart-way.md
   - 我:
     - ME/index.md
     - ME/introduction.md
