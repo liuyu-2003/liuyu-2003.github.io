@@ -8,6 +8,10 @@ site_description: 刘钰的个人网站
 nav:
   - 博客:
     - BLOG/index.md
+  - 学习:
+    - STUDY/index.md
+    - Git:
+      - LearnGit.md
   - 随笔:
     - ESSAY/index.md
     -随笔记:
