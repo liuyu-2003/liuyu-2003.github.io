@@ -75,7 +75,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/liuyu-2003
       name: Github | liuyu-2003
-  app_dir: app/TJMJ_014_20110801
+  app_dir: app
 
 # Extension
 plugins:
