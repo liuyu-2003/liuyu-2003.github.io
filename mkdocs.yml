@@ -32,6 +32,8 @@ nav:
   - 我:
     - ME/index.md
     - ME/introduction.md
+  - 麻将:
+    - app/app.md
 # UI
 ## top
 theme:
@@ -73,6 +75,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/liuyu-2003
       name: Github | liuyu-2003
+  app_dir: app
 
 # Extension
 plugins:
