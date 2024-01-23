@@ -32,8 +32,8 @@ nav:
   - 我:
     - ME/index.md
     - ME/introduction.md
-  - 麻将:
-    - app/app.md
+  - 应用:
+    - app/majiang.md
 # UI
 ## top
 theme:
