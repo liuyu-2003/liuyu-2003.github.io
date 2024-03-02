@@ -18,17 +18,19 @@
 14. 设置->应用->启动->关闭Microsoft Edge
 15. 设置->游戏->关闭Game Bar、关闭游戏模式
 16. 设置->轻松使用->键盘->取消勾选允许使用快捷键启动粘滞键
-17. 卸载One drive
-18. 安装Bandizip
-19. 安装代理软件
-20. 安装Chrome（默认只能下载到C盘）->设为默认浏览器、同步设置
-21. 取消并更换桌面下方任务栏中固定的图标
-22. 安装Anaconda->C盘
-23. 安装Pycharm、Clion
-24. 安装VS Code
-25. 安装Barrier
-26. 安装WPS国际版并汉化
-27. 安装geek
-28. 安装WLAN Optimizer（防跳ping）
-29. 安装微信
-30. 安装Telegram
+17. 控制面板->搜索`键盘`并进入->重复延迟调到最慢、重复速度调到最快
+18. 卸载One drive
+19. 安装Bandizip
+20. 安装代理软件
+21. 安装Chrome（默认只能下载到C盘）->设为默认浏览器、同步设置
+22. 取消并更换桌面下方任务栏中固定的图标
+23. 安装Anaconda->C盘
+24. 安装Pycharm、Clion
+25. 安装VS Code
+26. 安装Barrier
+27. 安装WPS国际版并汉化
+28. 安装geek
+29. 安装WLAN Optimizer（防跳ping）
+30. 安装微信
+31. 安装Telegram
+32. 安装BoosterX(用于调教电脑使之便于玩游戏)
