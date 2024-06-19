@@ -41,6 +41,7 @@ nav:
     - ME/index.md
     - ME/introduction.md
   - 应用:
+    - app/index.md
     - app/majiang.md
     - app/chuti.md
 # UI
