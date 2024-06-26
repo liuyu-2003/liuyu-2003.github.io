@@ -17,6 +17,7 @@ nav:
     - BLOG/ReinstallTheSystem.md
     - BLOG/InstallGym.md
     - BLOG/SolveTouchIDFailure.md
+    - BLOG/Cors.md
   - 学习:
     - STUDY/index.md
     - Git学习: STUDY/LearnGit.md
@@ -43,7 +44,6 @@ nav:
   - 应用:
     - app/index.md
     - app/majiang.md
-    - app/chuti.md
 # UI
 ## top
 theme:
