@@ -24,13 +24,14 @@ nav:
     - Markdown学习: STUDY/LearnMD.md
     - C++学习: STUDY/LearnCPP.md
     - 计算机视觉学习: STUDY/LearnCV.md
+    - Java学习: STUDY/Java.md
   - 随笔:
     - ESSAY/index.md
     - 随笔记:
       - 随笔记|2311: ESSAY/Jottings/2311.md
-      - 随笔记|2312: ESSAY/Jottings/2312.md
-      - 随笔记|2431: ESSAY/Jottings/2431.md
-      - 随笔记|2437: ESSAY/Jottings/2437.md
+      # - 随笔记|2312: ESSAY/Jottings/2312.md
+      # - 随笔记|2431: ESSAY/Jottings/2431.md
+      # - 随笔记|2437: ESSAY/Jottings/2437.md
     - 文章: 
       - ESSAY/Articles/affection.md
       # - ESSAY/Articles/StoreList.md
