@@ -25,7 +25,11 @@ nav:
     - C++学习: STUDY/LearnCPP.md
     - 计算机视觉学习: STUDY/LearnCV.md
     - Java学习: STUDY/Java.md
+    - Java集合: STUDY/JavaJH.md
+    - Java并发: STUDY/JavaBF.md
     - 苍穹外卖笔记: STUDY/cqwm.md
+    - MySQL学习: STUDY/MySQL.md
+    - MyBatis学习: STUDY/MyBatis.md
   - 随笔:
     - ESSAY/index.md
     - 随笔记:
